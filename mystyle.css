@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gamja+Flower&display=swap');
+
+body {
+    background-image: url("img/loop.jpg");
+    background-repeat: repeat;
+    background-size: 100%;
+    background-position: center bottom;
+  }
+
+h1 {    
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+
+.hi {
+    display: inline-block;
+}
+
+#thx {
+    margin: 90px 90px 90px 110px;
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.intro {
+    display: inline-block;
+    margin-top: 0px;
+    margin-left: 100px;
+    font-family: 'Gamja Flower', cursive;
+    text-align: center;
+    font-size: 140%;
+    vertical-align: 220px;
+    color: white
+}
+
+strong {
+    color: royalblue;
+}
+
+.hobby {
+    margin: 100px 300px 100px 300px;
+    font-family: 'Gamja Flower', cursive;
+    text-align: left;
+    font-size: 140%;
+    color: white;
+    border-radius: 5%;
+    border-style: dotted;
+}
+
+.a {
+    text-align: center;
+}
+
+#city {
+    width: 100%;
+    height: 100%;
+}
